@@ -1,0 +1,26 @@
+segment_sources:
+  I8C432E8E:
+    type: origin_type
+    relation: translation
+    language: en
+  ID3A8842E:
+    type: origin_type
+    relation: translation
+    language: zh
+  I255E5F53:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  230cad90bccc42f9a3efe2175e0e0af8:
+    I8C432E8E: 6ee5fdb3a0ae49b99eb9c2193561de91
+    ID3A8842E: 6b1f7314fd9944ab8c693856e00ec61d
+    I255E5F53: fe7f41ce68a04424a32e309a638ffb06
+  c18eb85ce6444bdabd283a1abf3967dd:
+    I8C432E8E: a2d69a664625420ebb2002f336e47bae
+    ID3A8842E: 4c2624e5df114953906c83a8a703a49d
+    I255E5F53: 7e424280d8ec40969e69dab35d7d3c50
+  8a2acfe16db74cbb8f493a422ced5f23:
+    I8C432E8E: a7ed1ff1ce0148c885d897efa17370fa
+    ID3A8842E: 816b704cb9cf420ca0b971bd0d6cad4b
+    I255E5F53: 39890c260cbc43968e7549e6e4f19c58
